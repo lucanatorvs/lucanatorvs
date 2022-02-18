@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucanatorvs
 - 👀 I’m interested in aerospace and maritime electrical engineering 
-- 🌱 I’m currently studying electrucal engineering in the Netherlands 
+- 🌱 I’m currently studying electrical engineering in the Netherlands 
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 send me an email if you want to reach me: contactlucanator@icloud.com
 
